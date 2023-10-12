@@ -5,9 +5,9 @@ CREATE TABLE POSITIONS (
 );
 
 -- insert values
-INSERT INTO POSITIONS (DESCRIPTION) VALUES
-  ('Gerente de vendas'),
-  ('Gerente de compras'),
-  ('Vendedor'),
-  ('Mecânico'),
-  ('Assistente Administrativo');
+INSERT INTO POSITIONS (DESCRIPTION) 
+  VALUES ('Gerente de vendas'),
+         ('Gerente de compras'),
+         ('Vendedor'),
+         ('Mecânico'),
+         ('Assistente Administrativo');

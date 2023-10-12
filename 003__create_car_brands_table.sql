@@ -5,12 +5,12 @@ CREATE TABLE CAR_BRANDS (
 );
 
 -- insert values
-INSERT INTO CAR_BRANDS (BRAND_NAME) VALUES
-  ('Chevrolet'),
-  ('Toyota'),
-  ('Hyundai'),
-  ('Volkswagen'),
-  ('Jeep'),
-  ('Renault'),
-  ('Honda'),
-  ('Fiat');
+INSERT INTO CAR_BRANDS (BRAND_NAME) 
+  VALUES ('Chevrolet'),
+         ('Toyota'),
+         ('Hyundai'),
+         ('Volkswagen'),
+         ('Jeep'),
+         ('Renault'),
+         ('Honda'),
+         ('Fiat');
