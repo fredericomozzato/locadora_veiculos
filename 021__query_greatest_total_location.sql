@@ -1,0 +1,1 @@
+SELECT MAX(TOTAL) AS 'Maior valor' FROM LOCATIONS;
